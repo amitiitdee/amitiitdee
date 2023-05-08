@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
+<div>This repository holds brief information about me.</div>
+
 <div align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitiitdee&label=Profile%20views&color=0e75b6&style=flat" alt="amitiitdee" /> </p>
