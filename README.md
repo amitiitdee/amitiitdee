@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-<div>This repository holds brief information about me.</div>
+<div align="center">This repository holds brief information about me.</div>
 
 <div align="center">
 
