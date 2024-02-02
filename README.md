@@ -1,26 +1,17 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h1 align="right">Amit</h1>
+<h3 align="right">Developer</h3>
 
-<div>
-
-[!img]
 <span>
 <img src="https://komarev.com/ghpvc/?username=amitiitdee&label=Profile%20views&color=0e75b6&style=flat" alt="amitiitdee" />
 </span>
 
 <header>
-
 <img src="https://github-profile-trophy.vercel.app/?username=amitiitdee" alt="amitiitdee" />
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">link</a>
 </header>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-Contact on GitHub.
-
-</p>
+<h3 align="left">Connect:</h3>
+<p align="left">Contact on GitHub.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
