@@ -2,7 +2,20 @@
 
 <p>Hi, I'm Amit, a passionate software developer from India. Working primarily on web development, data analysis, data visualization and chrome extensions. Interested in front-end frameworks, ui/ux designs, typography and data visualizations.</p>
 
+<p>
+<span>
+<img src="https://komarev.com/ghpvc/?username=amitiitdee&label=Profile%20views&color=0e75b6&style=flat" alt="amitiitdee" /></span>
+</p>
+
+<p align="middle">
+<header>
+<img src="https://github-profile-trophy.vercel.app/?username=amitiitdee" alt="amitiitdee" />
+</header>
+</p>
+
 <hr>
+
+<h3 align="left"></h3>
 
 <table>
 <thead></thead>
@@ -252,3 +265,12 @@
 </tbody>
 
 </table>
+
+<hr>
+<h3 align="left">Stats</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitiitdee&show_icons=true&locale=en&layout=compact" alt="amitiitdee" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitiitdee&show_icons=true&locale=en" alt="amitiitdee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitiitdee&" alt="amitiitdee" /></p>
